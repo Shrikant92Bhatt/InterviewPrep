@@ -536,24 +536,5 @@ function Counter() {
 }
 ```
 
-## **Attach the following for each React Hook:**
 
-- Brief explanation
-- Example code
 
-_Use the React Hooks section above or add from the previous answer._
-
-## **How to Copy This into Word**
-
-1. Use section headings, code block formatting, and bullet points.
-2. Use the “Table” feature in Word for comparison tables.
-3. Add space or images as needed for clarity.
-
-## **Additional Question Ideas to Include**
-
-- Explain controlled vs uncontrolled components (with short example)
-- Error boundaries: what, why, how
-- Fragments, portals
-- SSR vs CSR: explain and differences
-- Route protection: method and example
-- More: See "More Advanced React \& JS Questions" in the previous answer
